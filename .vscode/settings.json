@@ -1,0 +1,21 @@
+{
+  "workbench.colorCustomizations": {
+    "activityBar.background": "#060af4",
+    "activityBar.foreground": "#fefbfb",
+    "activityBar.inactiveForeground": "#c6f10399",
+    "activityBarBadge.background": "#e1f503",
+    "activityBarBadge.foreground": "#15202b",
+    "titleBar.activeBackground": "#060af4",
+    "titleBar.inactiveBackground": "#060af499",
+    "titleBar.activeForeground": "#ffffff",
+    "titleBar.inactiveForeground": "#e7e7e799",
+    "statusBar.background": "#060af4",
+    "statusBarItem.hoverBackground": "#5f7b22",
+    "statusBar.foreground": "#e7e7e7"
+  },
+  "cSpell.words": [
+    "aws",
+    "db",
+    "dynamo"
+  ]
+}

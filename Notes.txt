@@ -1,0 +1,10 @@
+# Make sure the AWS CLI is working!
+#pyenv virtualenv 3.7.0 python3.7.0
+pyenv activate python3.7.0
+aws --version
+aws iam get-user
+aws dynamodb help
+
+# List current tables
+aws dynamodb list-tables
+
